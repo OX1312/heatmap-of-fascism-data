@@ -16,7 +16,7 @@
         "medium": "sticker",
         "category": "fck nwo fck grn",
         "entity_display": "FCK NWO / GRN",
-        "entity_desc": "Combination of anti-Green Party and New World Order conspiracy slogans. FCK NWO refers to the New World Order conspiracy theory. FCK GRN expression opposition to the Green Party.",
+        "entity_desc": "Anti-Green Party slogan combined with New World Order conspiracy theory.",
         "first_seen": "2026-01-24",
         "last_seen": "2026-01-24",
         "location_text": "intersection of Spengelweg and Rellinger Str., Hamburg",
@@ -35,7 +35,8 @@
         "last_seen_month": 1,
         "last_seen_ym": "2026-01",
         "sticker_type": "FCK NWO FCK GRN",
-        "entity_key": "fck nwo fck grn"
+        "entity_key": "fck nwo fck grn",
+        "entity_source_url": "https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen"
       }
     },
     {
@@ -53,7 +54,7 @@
         "medium": "sticker",
         "category": "auf1",
         "entity_display": "AUF1",
-        "entity_desc": "AUF1 (German original: \"Alternatives Unabhängiges Fernsehen, Kanal 1\") is an Austrian online media platform / website. Public reference and media sources discuss AUF1 in relation to misinformation/conspiracy narratives and regulatory issues concerning broadcasting without authorization. (Sources: auf1-wiki-de; auf1-wiki-en; tagesschau-auf1-desinformation; kommaustria-auf1tv-2023-05-17)",
+        "entity_desc": "Austrian online platform known for misinformation and conspiracy narratives. Broadcast without authorization.",
         "first_seen": "2026-01-24",
         "last_seen": "2026-01-24",
         "location_text": "intersection of Edmund-Siemers-Allee and Grindelallee, Hamburg",
@@ -91,7 +92,7 @@
         "medium": "sticker",
         "category": "AFD",
         "entity_display": "AfD",
-        "entity_desc": "Far-right political party in Germany (German: \"Alternative für Deutschland\").",
+        "entity_desc": "Alternative für Deutschland – far-right political party in Germany, classified as right-wing extremist in multiple federal states.",
         "first_seen": "2026-01-25",
         "last_seen": "2026-01-25",
         "location_text": "53.851011, 10.702717",
@@ -111,11 +112,12 @@
         "last_seen_ym": "2026-01",
         "sticker_type": "AFD",
         "entity_key": "AFD",
-        "seen_count": 42,
+        "seen_count": 97,
         "removed_at": null,
         "media": [
           "https://files.mastodon.social/media_attachments/files/115/952/873/465/027/255/original/daf84fc03c9732a3.jpeg"
-        ]
+        ],
+        "entity_source_url": "https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen"
       }
     },
     {
@@ -133,7 +135,7 @@
         "medium": "graffiti",
         "category": "1161",
         "entity_display": "1161",
-        "entity_desc": "Numeric code used in far-right contexts meaning \"Anti-Antifascist Action\" (German original: \"Anti-Antifaschistische Aktion\", often shortened \"Anti-Antifa\"), i.e. opposition to antifascist movements. (Source: Wikipedia page \"Rechtsextreme Symbole und Zeichen\".)",
+        "entity_desc": "Numeric code for 'Anti-Antifaschistische Aktion' (Anti-Antifa) – opposition to antifascist movements.",
         "first_seen": "2026-01-25",
         "last_seen": "2026-01-25",
         "location_text": "52.52222222222222, 13.370555555555557",
@@ -153,7 +155,7 @@
         "last_seen_ym": "2026-01",
         "sticker_type": "1161",
         "entity_key": "1161",
-        "seen_count": 42,
+        "seen_count": 97,
         "removed_at": null,
         "media": [
           "https://files.mastodon.social/media_attachments/files/115/956/522/993/172/962/original/bd6c03cdf3a34631.jpg"
@@ -176,7 +178,7 @@
         "medium": "graffiti",
         "category": "1161",
         "entity_display": "1161",
-        "entity_desc": "Numeric code used in far-right contexts meaning \"Anti-Antifascist Action\" (German original: \"Anti-Antifaschistische Aktion\", often shortened \"Anti-Antifa\"), i.e. opposition to antifascist movements. (Source: Wikipedia page \"Rechtsextreme Symbole und Zeichen\".)",
+        "entity_desc": "Numeric code for 'Anti-Antifaschistische Aktion' (Anti-Antifa) – opposition to antifascist movements.",
         "first_seen": "2026-01-25",
         "last_seen": "2026-01-25",
         "location_text": "51.955382, 12.895656",
@@ -196,7 +198,7 @@
         "last_seen_ym": "2026-01",
         "sticker_type": "1161",
         "entity_key": "1161",
-        "seen_count": 42,
+        "seen_count": 97,
         "removed_at": null,
         "media": [
           "https://files.mastodon.social/media_attachments/files/115/956/581/619/406/061/original/288142c0f3025c22.jpg"
@@ -219,7 +221,7 @@
         "medium": "sticker",
         "category": "AFD",
         "entity_display": "AfD",
-        "entity_desc": "Far-right political party in Germany (German: \"Alternative für Deutschland\").",
+        "entity_desc": "Alternative für Deutschland – far-right political party in Germany, classified as right-wing extremist in multiple federal states.",
         "first_seen": "2026-01-27",
         "last_seen": "2026-01-27",
         "location_text": "53.8878103, 10.645878",
@@ -238,7 +240,53 @@
         "description": "kind=sticker\ncat=AfD\nstatus=present\nid=masto-115967049464871568",
         "url": "https://mastodon.social/@troete_one/115967049464871568",
         "source": "https://mastodon.social/@troete_one/115967049464871568",
-        "entity_key": "AFD"
+        "entity_key": "AFD",
+        "entity_source_url": "https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "item_id": "masto-116002081282680843",
+        "status": "present",
+        "sticker_type": "1161",
+        "medium": "sticker",
+        "created_date": "2026-02-02",
+        "media": [
+          "https://files.mastodon.social/media_attachments/files/116/002/080/886/214/415/original/062a4bcc55d8f1ba.png"
+        ],
+        "url": "https://mastodon.social/@troete_one/116002081282680843",
+        "notes": null,
+        "radius_m": 20,
+        "needs_verification": false,
+        "entity_display": "1161",
+        "entity_desc": "Numeric code for 'Anti-Antifaschistische Aktion' (Anti-Antifa) – opposition to antifascist movements.",
+        "category": "1161",
+        "category_display": "1161",
+        "first_seen": "2026-02-02",
+        "last_seen": "2026-02-02",
+        "first_seen_year": 2026,
+        "first_seen_month": 2,
+        "first_seen_ym": "2026-02",
+        "last_seen_year": 2026,
+        "last_seen_month": 2,
+        "last_seen_ym": "2026-02",
+        "entity_key": "1161",
+        "entity_source_url": "https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen",
+        "media0": "https://files.mastodon.social/media_attachments/files/116/002/080/886/214/415/original/062a4bcc55d8f1ba.png",
+        "id": "masto-116002081282680843",
+        "name": "sticker 1161 (Anti Antifa) 2026-02 present",
+        "lat": 51.33686933151746,
+        "lon": 12.335113171357685,
+        "location_text": "51.33686933151746, 12.335113171357685",
+        "description": "kind=sticker\ncat=1161\nstatus=present\nfirst=2026-02\nlast=2026-02\nentity=1161 (Anti Antifa)\ndesc=Numeric code 1161 = Anti-Antifaschistische Aktion. Opposition to antifascist movements."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.335113171357685,
+          51.33686933151746
+        ]
       }
     }
   ]
