@@ -324,6 +324,42 @@
           53.8646316
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "item_id": "masto-116107857581025482",
+        "status": "present",
+        "sticker_type": "unknown",
+        "medium": "sticker",
+        "created_date": "2026-02-21",
+        "media": [
+          "https://files.mastodon.social/media_attachments/files/116/107/857/205/335/481/original/5820e56fcc20645d.png"
+        ],
+        "url": "https://mastodon.social/@troete_one/116107857581025482",
+        "notes": null,
+        "radius_m": 20,
+        "needs_verification": true,
+        "entity_display": "Unknown",
+        "entity_desc": "Unknown (needs verification)",
+        "category": "Unknown",
+        "category_display": "Unknown",
+        "first_seen": "2026-02-21",
+        "last_seen": "2026-02-21",
+        "first_seen_year": 2026,
+        "first_seen_month": 2,
+        "first_seen_ym": "2026-02",
+        "last_seen_year": 2026,
+        "last_seen_month": 2,
+        "last_seen_ym": "2026-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.990264188318475,
+          51.357041664982056
+        ]
+      }
     }
   ]
 }
