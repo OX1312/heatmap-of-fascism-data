@@ -362,6 +362,43 @@
           51.357041664982056
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "item_id": "masto-116108485194743397",
+        "status": "present",
+        "sticker_type": "Patrioten Bewegung",
+        "medium": "sticker",
+        "created_date": "2026-02-21",
+        "media": [
+          "https://files.mastodon.social/media_attachments/files/116/108/484/535/431/105/original/be29c6e4e7741bcd.png"
+        ],
+        "media0": "https://files.mastodon.social/media_attachments/files/116/108/484/535/431/105/original/be29c6e4e7741bcd.png",
+        "url": "https://mastodon.social/@buntepanther/116108485194743397",
+        "notes": null,
+        "radius_m": 20,
+        "needs_verification": true,
+        "entity_display": "Unknown",
+        "entity_desc": "Unknown (needs verification)",
+        "category": "Unknown",
+        "category_display": "Unknown",
+        "first_seen": "2026-02-21",
+        "last_seen": "2026-02-21",
+        "first_seen_year": 2026,
+        "first_seen_month": 2,
+        "first_seen_ym": "2026-02",
+        "last_seen_year": 2026,
+        "last_seen_month": 2,
+        "last_seen_ym": "2026-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.680149466970269,
+          53.868127991532994
+        ]
+      }
     }
   ]
 }
