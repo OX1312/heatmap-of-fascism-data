@@ -332,7 +332,7 @@
       "properties": {
         "item_id": "masto-116107857581025482",
         "status": "present",
-        "sticker_type": "Anti Antifa",
+        "sticker_type": "FCK ANTIFA",
         "medium": "sticker",
         "created_date": "2026-02-21",
         "media": [
@@ -342,10 +342,10 @@
         "notes": null,
         "radius_m": 20,
         "needs_verification": false,
-        "entity_display": "1161 (Anti Antifa)",
-        "entity_desc": "Numeric code 1161 = Anti-Antifaschistische Aktion. Opposition to antifascist movements.",
-        "category": "anti antifa",
-        "category_display": "1161 (Anti Antifa)",
+        "entity_display": "FCK ANTIFA",
+        "entity_desc": "Common anti-antifascist slogan on far-right propaganda materials.",
+        "category": "fck antifa",
+        "category_display": "FCK ANTIFA",
         "first_seen": "2026-02-21",
         "last_seen": "2026-02-21",
         "first_seen_year": 2026,
@@ -355,7 +355,7 @@
         "last_seen_month": 2,
         "last_seen_ym": "2026-02",
         "media0": "https://files.mastodon.social/media_attachments/files/116/107/857/205/335/481/original/5820e56fcc20645d.png",
-        "entity_key": "anti antifa",
+        "entity_key": "fck antifa",
         "entity_source_url": "https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen"
       },
       "geometry": {
