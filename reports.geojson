@@ -403,6 +403,45 @@
           53.868127991532994
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "item_id": "masto-116108694050847804",
+        "status": "present",
+        "sticker_type": "FCK Antifa",
+        "medium": "sticker",
+        "created_date": "2026-02-21",
+        "media": [
+          "https://files.mastodon.social/media_attachments/files/116/108/693/303/846/316/original/fa88fbddf982595d.png"
+        ],
+        "media0": "https://files.mastodon.social/media_attachments/files/116/108/693/303/846/316/original/fa88fbddf982595d.png",
+        "url": "https://mastodon.social/@buntepanther/116108694050847804",
+        "notes": null,
+        "radius_m": 20,
+        "entity_key": "fck antifa",
+        "entity_display": "FCK ANTIFA",
+        "needs_verification": false,
+        "entity_desc": "Common anti-antifascist slogan on far-right propaganda materials.",
+        "category": "fck antifa",
+        "category_display": "FCK ANTIFA",
+        "entity_source_url": "https://de.wikipedia.org/wiki/Rechtsextreme_Symbole_und_Zeichen",
+        "first_seen": "2026-02-21",
+        "last_seen": "2026-02-21",
+        "first_seen_year": 2026,
+        "first_seen_month": 2,
+        "first_seen_ym": "2026-02",
+        "last_seen_year": 2026,
+        "last_seen_month": 2,
+        "last_seen_ym": "2026-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67734476456781,
+          53.86851006455749
+        ]
+      }
     }
   ]
 }
